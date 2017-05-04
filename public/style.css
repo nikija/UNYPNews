@@ -1,0 +1,29 @@
+.feed {
+	margin-left: 100px;
+	margin-right: 100px;
+	margin-top: 50px;
+	border: 1px solid black;
+	min-height: 1000px;
+}
+
+.feed h3 {
+	border: 1px solid #333;
+	padding: 20px;
+}
+
+.new-message {
+	border: 1px solid #333;
+	padding: 20px;
+	width: 100%;
+}
+
+.well {
+	border: 1px solid #333;
+	padding: 20px;
+	width: 100%;
+}
+
+.hatethisbutton {
+	margin-left: 100px;
+	margin-right: 100px;
+}
